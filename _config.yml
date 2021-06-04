@@ -69,14 +69,13 @@ author:
   bio              : "PhD student at École Normale Supérieure"
   location         : "Paris, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+          # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "eduardo.silva@ug.uchile.cl"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "edoasd"
-  lastfm           :
-  linkedin         :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # github           : "edoasd"
+  # lastfm           :
+  # linkedin         :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
 
 
 # Reading Files
